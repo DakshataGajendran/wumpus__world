@@ -149,7 +149,7 @@ while(player):
 
 ## Output:
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/48c51b10-76cd-4687-b5c9-9e37cd41b6b3)
 
 
 ## Result: 
